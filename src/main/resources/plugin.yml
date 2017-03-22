@@ -1,0 +1,8 @@
+name: ScoreboardTeamsExamples
+author: Vinetos
+version: ${project.version}
+main: fr.vinetos.MyPlugin
+website: https://www.vinetos.fr/
+commands:
+  join:
+  leave:
