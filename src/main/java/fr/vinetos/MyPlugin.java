@@ -34,6 +34,7 @@ package fr.vinetos;/*
 
 import fr.vinetos.listener.PlayerJoinListener;
 import fr.vinetos.team.TeamManager;
+import fr.vinetos.command.*;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class MyPlugin extends JavaPlugin {
